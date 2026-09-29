@@ -31,7 +31,7 @@ export default function Header() {
           </a>
 
           <a href="#vi-chung-toi">
-            Vì chúng tôi
+            Về chúng tôi
           </a>
 
           <a href="#tin-tuc">
