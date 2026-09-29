@@ -1,8 +1,8 @@
-import { Outfit, Inter } from 'next/font/google'
+import { Plus_Jakarta_Sans, Inter } from 'next/font/google'
 import './globals.css'
 
-const outfit = Outfit({
-  subsets: ['latin', 'latin-ext'],
+const heading = Plus_Jakarta_Sans({
+  subsets: ['latin', 'latin-ext', 'vietnamese'],
   weight: ['500', '600', '700', '800'],
   variable: '--font-outfit',
   display: 'swap',
@@ -26,7 +26,7 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang="vi" className={`${outfit.variable} ${inter.variable}`}>
+    <html lang="vi" className={`${heading.variable} ${inter.variable}`}>
       <body>{children}</body>
     </html>
   )

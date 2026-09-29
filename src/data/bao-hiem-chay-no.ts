@@ -39,7 +39,7 @@ export const features = [
     description:
       'Hỗ trợ chi phí lắp đặt hệ thống phòng cháy chữa cháy theo tiêu chuẩn quy định.',
     image:
-      'https://images.unsplash.com/photo-1587581314291-6cbf8f8e2c53?auto=format&fit=crop&w=700&q=85',
+      'https://images.unsplash.com/photo-1584438784894-089d6a62b8fa?auto=format&fit=crop&w=700&q=85',
   },
   {
     title: 'Mở rộng thiên tai',

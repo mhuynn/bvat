@@ -25,7 +25,7 @@ export default function WhyChooseUs() {
   return (
     <section
       className="why-section"
-      id="vi-chung-toi"
+      id="ve-chung-toi"
     >
 
       <div className="container">

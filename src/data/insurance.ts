@@ -72,6 +72,7 @@ export const nonLifeInsurance = [
       'Bảo vệ toàn diện cho chiếc xe của bạn trên mọi cung đường, hỗ trợ cứu hộ khẩn cấp 24/7.',
     image:
       'https://images.unsplash.com/photo-1550355291-bbee04a92027?auto=format&fit=crop&w=900&q=85',
+    href: '/san-pham/bao-hiem-xe-co-gioi',
   },
   {
     icon: 'Home',

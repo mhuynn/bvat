@@ -22,21 +22,21 @@ export default function Header() {
 
         <nav className={`nav ${open ? 'show' : ''}`}>
 
-          <a href="#trang-chu">
+          <Link href="/#trang-chu">
             Trang chủ
-          </a>
+          </Link>
 
-          <a href="#san-pham">
+          <Link href="/#san-pham">
             Sản phẩm
-          </a>
+          </Link>
 
-          <a href="#vi-chung-toi">
+          <Link href="/#ve-chung-toi">
             Về chúng tôi
-          </a>
+          </Link>
 
-          <a href="#tin-tuc">
+          <Link href="/#tin-tuc">
             Tin tức
-          </a>
+          </Link>
 
           <a href="#lien-he">
             Liên hệ

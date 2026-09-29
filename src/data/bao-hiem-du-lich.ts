@@ -39,7 +39,7 @@ export const features = [
     description:
       'Sơ tán khẩn cấp bằng đường hàng không về nơi điều trị y tế gần nhất hoặc hồi hương về nước.',
     image:
-      'https://images.unsplash.com/photo-1587613864411-4b78afe5d4a4?auto=format&fit=crop&w=700&q=85',
+      'https://images.unsplash.com/photo-1587854692152-cbe660dbde88?auto=format&fit=crop&w=700&q=85',
   },
   {
     title: 'Hỗ trợ khẩn cấp 24/7',

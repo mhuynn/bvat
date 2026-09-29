@@ -75,7 +75,7 @@ export default function Footer() {
             Điều hướng
           </h3>
 
-          <a href="#vi-chung-toi">
+          <a href="#ve-chung-toi">
             Về chúng tôi
           </a>
 

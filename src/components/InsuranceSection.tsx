@@ -89,7 +89,7 @@ export default function InsuranceSection() {
       id="san-pham"
     >
 
-      <div className="container">
+      <div className="container" id="tin-tuc">
 
         <div className="insurance-group">
 

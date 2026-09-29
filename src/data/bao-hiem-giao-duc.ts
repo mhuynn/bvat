@@ -39,7 +39,7 @@ export const features = [
     description:
       'Mức thưởng thêm đến 20% giá trị hợp đồng khuyến khích con đạt thành tích xuất sắc trong học tập.',
     image:
-      'https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=700&q=85',
+      'https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=700&q=85',
   },
   {
     title: 'Bảo hiểm sức khỏe con',
